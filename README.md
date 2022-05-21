@@ -32,7 +32,7 @@ Technology I have worked with&nbsp;<img src = "https://media2.giphy.com/media/Qs
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=indrasen715&show_icons=true&layout=compact) | ![Indrasen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrasen715&layout=compact) |
+![Indrasen Github Stats](https://github-readme-stats.vercel.app/api?username=indrasen715&show_icons=true&layout=compact) | ![Indrasen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrasen715&layout=compact) |
 | --- | --- |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasen715&layout=compact) | 
 ![Github Stars](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrasen715&theme=vue)

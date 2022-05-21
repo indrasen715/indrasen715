@@ -30,8 +30,11 @@ Technology I have worked with&nbsp;<img src = "https://media2.giphy.com/media/Qs
 
 </p>
 
-![Indrasen GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=indrasen715&theme=github)
-| ![Indrasen github stats](https://github-readme-stats.vercel.app/api?username=indrasen715&show_icons=true&layout=compact) | ![Indrasen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrasen715&layout=compact) |
+
+
+![Indrasen github stats](https://github-readme-stats.vercel.app/api?username=indrasen715&show_icons=true&layout=compact) | ![Indrasen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrasen715&layout=compact) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasen715&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=indrasen715&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&layout=compact) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indrasen715&layout=compact) | ![Github Stars](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrasen715&theme=vue)
+
+![Indrasen GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=indrasen715&theme=github)
 

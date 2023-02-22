@@ -4,7 +4,7 @@
 
 
 <span align="center" style="background-color:black">
-<img align="center" width="200" height="200"  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="center" width="200" height="200"  alt="side_sticker" src="https://giphy.com/gifs/motionaddicts-fire-snow-ice-xTiTnETzih3HYCaw2Q" />
 </span>
 
 <h3 align="center"> 

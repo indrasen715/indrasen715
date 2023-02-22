@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineer | Tech Enthusiast </h3>
 
 
-<p align="center" style="color:black">
+<span align="center" style="background-color:black">
 <img align="center" width="200" height="200"  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
+</span>
 
 <h3 align="center"> 
 Technology I have worked with&nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> 

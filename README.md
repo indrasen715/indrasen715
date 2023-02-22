@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Tech Enthusiast </h3>
 
 
-<p align="center">
+<p align="center" style="color:black">
 <img align="center" width="200" height="200"  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 

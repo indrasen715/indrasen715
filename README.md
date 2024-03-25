@@ -20,6 +20,8 @@ Technology I have worked with&nbsp; <img src = "https://media2.giphy.com/media/Q
   <img src="https://img.shields.io/badge/-C%20sharp-2088FF?style=flat-square&logo=csharp" />
   <img src="https://img.shields.io/badge/-.Net-2088FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-go-2088FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Kotlin-2088FF?style=flat-square" />
+  
 
 </p>
 
